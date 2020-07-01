@@ -10,3 +10,15 @@
 **Thoughts:** It is eye-opening to brush up on the basics and have "aha" moments around things I'm currently stuck on in my Dog Breed Database
 
 **Link to Work:** https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8670692#overview
+
+
+### Day 1: June 29, 2020
+
+**Today's Progress**: Getting my API up onto Heroku
+
+**Time of Work**: 6:15-7:15pm
+
+**Thoughts:** Actaully got my API up quickly but struggled with the front end... I don't think I have a deep understanding yet of environment variables.
+
+**Link to Work:** https://radiant-falls-87586.herokuapp.com/ (API) & https://modest-hoover-c65dc0.netlify.app/ (UI)
+
