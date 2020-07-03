@@ -22,3 +22,13 @@
 
 **Link to Work:** https://radiant-falls-87586.herokuapp.com/ (API) & https://modest-hoover-c65dc0.netlify.app/ (UI)
 
+### Day 2: July 2, 2020
+
+**Today's Progress**: Getting my front end into Netlify
+
+**Time of Work**: 6-7pm
+
+**Thoughts:** Realized I can use just an export and import for environment variables. Got my front end onto Netlify and it is reaching the API, now just working on styling the view. Might look into a CSS library
+
+**Link to Work:** https://modest-hoover-c65dc0.netlify.app/view (UI)
+
