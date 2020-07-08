@@ -32,3 +32,13 @@
 
 **Link to Work:** https://modest-hoover-c65dc0.netlify.app/view (UI)
 
+### Day 3: July 7, 2020
+
+**Today's Progress**: Working on manipulating the front end using bootstrap react
+
+**Time of Work**: 5:40-7:40pm
+
+**Thoughts:** CSS takes more pre-planning than I anticipated... it's easier to start with the end in mind
+
+**Link to Work:** https://modest-hoover-c65dc0.netlify.app/view (UI)
+
