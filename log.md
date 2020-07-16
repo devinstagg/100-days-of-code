@@ -36,9 +36,20 @@
 
 **Today's Progress**: Working on manipulating the front end using bootstrap react
 
-**Time of Work**: 5:40-7:40pm
+**Time of Work**: 6:40-7:40pm
 
 **Thoughts:** CSS takes more pre-planning than I anticipated... it's easier to start with the end in mind
 
 **Link to Work:** https://modest-hoover-c65dc0.netlify.app/view (UI)
+
+### Day 4: July 15, 2020
+
+**Today's Progress**: More CSS tweaks and working more on Javascript tutorials
+
+**Time of Work**: 6:10-7:41pm
+
+**Thoughts:** the basics are where i'm lacking...
+
+**Link to Work:** https://learnjavascript.online/app.html
+
 
